@@ -3,10 +3,11 @@
 int main(){
 
     printf("hello world\n");
-    int a;
-    int b;
+    int a=1;
+    int b=2;
 
-    int d;
+    int sum;
+    sum = a+b;
     return 0;
 
 }
